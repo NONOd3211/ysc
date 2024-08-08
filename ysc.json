@@ -448,7 +448,7 @@
 			{
 				"name": "影视仓",
 				"type": 0,
-				"url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt",
+				"url": "https://raw.githubusercontent.com/NONOd3211/ysc/main/live.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
